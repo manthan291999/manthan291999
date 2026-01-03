@@ -2,6 +2,12 @@
 <h3 align="center">AI Engineer | Robotics Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
+  <a href="https://manthanmittal.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=manthan291999&label=Profile%20Views&color=0e75b6&style=flat" alt="manthan291999" />
 </p>
 
@@ -15,6 +21,7 @@
 
 I am a motivated **MSc Artificial Intelligence** graduate from the **University of Essex** with a background in Information Technology. I specialize in bridging the gap between theoretical AI models and practical applications, from **Robotics Simulations** using ROS2 to **Full-Stack Web Development**.
 
+- 🌍 **Portfolio:** [manthanmittal.vercel.app](https://manthanmittal.vercel.app/)
 - 🔭 I’m currently working on **AI-driven Data Analytics & Predictive Modeling**.
 - 🌱 I’m currently deepening my knowledge in **Reinforcement Learning & ROS2 Navigation**.
 - 👯 I’m looking to collaborate on **Open Source AI & Robotics projects**.
@@ -91,5 +98,8 @@ I am a motivated **MSc Artificial Intelligence** graduate from the **University 
   </a>
   <a href="https://linkedin.com/in/manthan-mittal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://manthanmittal.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
