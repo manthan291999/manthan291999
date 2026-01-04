@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Robotics Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://manthanmittal.vercel.app/">
+  <a href="http://www.manthanmittal.online/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
