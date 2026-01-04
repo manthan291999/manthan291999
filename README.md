@@ -1,128 +1,123 @@
 <h1 align="center">Hi there, I'm Manthan Mittal 👋</h1>
-<h3 align="center">AI Engineer | Robotics Enthusiast | Full Stack Developer</h3>
+<h3 align="center">AI Engineer | Robotics Specialist | Full Stack Developer</h3>
 
 <p align="center">
-<a href="https://www.manthanmittal.online/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=manthan291999&label=Profile%20Views&color=0e75b6&style=flat" alt="manthan291999" />
-</p>
-
-<p align="center">
-<b>Based in London, UK 🇬🇧</b>
-</p>
-
-🚀 About Me
-
-I am a motivated MSc Artificial Intelligence graduate from the University of Essex with a background in Information Technology. I specialize in bridging the gap between theoretical AI models and practical applications, from Robotics Simulations using ROS2 to Full-Stack Web Development.
-
-🌍 Portfolio: www.manthanmittal.online
-
-🔭 I’m currently working on AI-driven Data Analytics & Predictive Modeling.
-
-🌱 I’m currently deepening my knowledge in Reinforcement Learning & ROS2 Navigation.
-
-👯 I’m looking to collaborate on Open Source AI & Robotics projects.
-
-💬 Ask me about Machine Learning, Computer Vision, and MERN Stack.
-
-📫 How to reach me: manthanmittal93@gmail.com
-
-🛠️ Tech Stack
-
-<h4 align="left">Languages</h4>
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<h4 align="left">AI, ML & Data Science</h4>
-<p align="left">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-<h4 align="left">Robotics & Cloud</h4>
-<p align="left">
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/Gazebo-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-<h4 align="left">Web Development</h4>
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-📂 Top Projects
-
-Project
-
-Tech Stack
-
-Description
-
-Autonomous Robot Navigation
-
-ROS2, Gazebo, Python, C++
-
-PID-based wall-following controller and Fuzzy Logic inference system for dynamic obstacle avoidance in TurtleBot simulations.
-
-Feedforward NN for Robotics
-
-Python, NumPy
-
-Built a Multi-Layer Perceptron (MLP) from scratch to predict non-linear robotic control parameters.
-
-Rossmann Store Sales
-
-XGBoost, TensorFlow
-
-Engineered a predictive pipeline for 1,115 drug stores processing 1M+ records using Tree-based ensembles and Deep Learning.
-
-DocInsight (RAG Engine)
-
-LLMs, Vector DB
-
-Retrieval Augmented Generation system to answer questions from unstructured PDFs with context filtering.
-
-Narrative-to-Clip
-
-PyTorch, Transformers
-
-Diffusion-based AI system to generate short video clips from text prompts.
-
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manthan291999&show_icons=true&theme=radical&hide_border=true" alt="manthan291999" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan291999&layout=compact&theme=radical&hide_border=true" alt="manthan291999" />
+  <a href="https://www.manthanmittal.online/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/manthan-mittal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
-<a href="mailto:manthanmittal93@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/manthan-mittal">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.manthanmittal.online/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=manthan291999&label=Profile%20Views&color=0e75b6&style=flat" alt="manthan291999" />
+</p>
+
+<p align="center">
+  <b>📍 Based in London, UK 🇬🇧</b>
+</p>
+
+---
+
+### 🚀 Professional Summary
+
+I am an **AI Engineer and Full Stack Developer** specializing in bridging the gap between theoretical artificial intelligence and robust software architecture. With a Master’s in Artificial Intelligence from the **University of Essex**, I build scalable intelligent systems—from high-fidelity **Robotics Simulations (ROS2)** to complex **Web Applications**.
+
+My work focuses on deploying machine learning models into production environments and engineering data-driven solutions that solve real-world problems.
+
+- 🔭 **Current Focus:** Developing **AI-driven Predictive Models** and **RAG (Retrieval-Augmented Generation)** systems.
+- 🌱 **Deepening Expertise:** Reinforcement Learning agents & Autonomous Navigation stacks.
+- 💡 **Core Competency:** Transforming raw data into actionable insights through Deep Learning and Full-Stack Engineering.
+- 📫 **Contact:** [manthanmittal93@gmail.com](mailto:manthanmittal93@gmail.com)
+
+---
+
+### 🛠️ Technical Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ros" width="48" height="48" alt="ROS2" />
+      <br>ROS2
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Stack | Engineering Highlights |
+| :--- | :--- | :--- |
+| **Autonomous Robot Navigation** | ROS2, Gazebo, C++ | Engineered a PID-based wall-following controller and Fuzzy Logic inference system for dynamic obstacle avoidance in TurtleBot environments. |
+| **DocInsight (RAG Engine)** | LLMs, Vector DB | Built a Retrieval Augmented Generation system capable of parsing unstructured PDFs and delivering context-aware answers with high accuracy. |
+| **Sales Prediction Pipeline** | XGBoost, TensorFlow | Processed 1M+ records for 1,115 stores; developed an ensemble predictive model optimizing supply chain logistics. |
+| **Narrative-to-Clip** | PyTorch, Transformers | Implemented a Diffusion-based generative AI system to synthesize short video clips directly from textual prompts. |
+| **Custom MLP Implementation** | Python, NumPy | Developed a Multi-Layer Perceptron from scratch (without frameworks) to solve non-linear robotic control kinematics. |
+
+---
+
+### 📊 Engineering Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manthan291999&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Manthan's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan291999&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+</div>
+
+---
+
+<p align="center">
+  <a href="mailto:manthanmittal93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.manthanmittal.online/">
+    <img src="https://img.shields.io/badge/Website-ManthanMittal.online-20232A?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
 </p>
