@@ -104,11 +104,23 @@ My work focuses on deploying machine learning models into production environment
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manthan291999&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Manthan's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan291999&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=manthan291999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manthan's Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan291999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthan291999&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  </p>
 </div>
 
 ---
