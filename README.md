@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Robotics Specialist | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.manthanmittal.online/">
+  <a href="https://www.manthanmittal.in/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/manthan-mittal">
