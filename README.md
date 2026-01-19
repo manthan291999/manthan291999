@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Manthan Mittal 👋</h1>
-<h3 align="center">AI Engineer | Robotics Specialist | Full Stack Developer</h3>
+<h3 align="center">AI Engineer | Robotics | Software Developer</h3>
 
 <p align="center">
   <a href="https://www.manthanmittal.in/">
