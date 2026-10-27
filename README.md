@@ -64,13 +64,6 @@ sensor data in Ahmedabad.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan291999&layout=compact&hide_border=true&hide_title=true&langs_count=6&theme=transparent">
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manthan291999/manthan291999/output/snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/manthan291999/manthan291999/output/snake.svg">
-  </picture>
-</p>
-
 ---
 
 <p align="center">
