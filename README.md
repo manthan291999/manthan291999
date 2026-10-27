@@ -91,61 +91,16 @@ class Manthan:
 
 ## 🏗️ Under the hood
 
-<details open>
-<summary><b>How Roxi turns live audio into insights</b></summary>
-<br>
-
-```mermaid
-flowchart LR
-    A["🎤 Mic + system audio<br/>CoreAudio · BlackHole"] --> B["⚙️ Rust core<br/>Tauri v2"]
-    B --> C["📝 Streaming STT<br/>AssemblyAI v3 ↺ Speechmatics"]
-    C --> D["🗣️ Speaker diarization<br/>voice embeddings"]
-    D --> E{"Chit-chat<br/>gate"}
-    E -- small talk --> X["🗑️ dropped locally"]
-    E -- signal --> F["🧭 Context manager<br/>importance · complexity"]
-    F -- simple --> G["⚡ Light agent"]
-    F -- complex --> H["🧠 Parallel agents<br/>technical · risk · summary"]
-    G --> I["🪟 Live overlay<br/>insights · actions · replies"]
-    H --> I
-    D --> J[("SQLite FTS5")]
-    J --> K["💬 Ask Roxi<br/>LangGraph adaptive RAG"]
-    Q[("Qdrant")] --> K
-    W["🌐 Web search"] --> K
-
-    classDef core fill:#0d1117,stroke:#7ee787,color:#e6edf3
-    classDef agent fill:#0d1117,stroke:#d2a8ff,color:#e6edf3
-    classDef store fill:#0d1117,stroke:#79c0ff,color:#e6edf3
-    class A,B,C,D core
-    class E,F,G,H,K agent
-    class J,Q,W,I,X store
-```
-
-</details>
+<p align="center">
+  <img src="./assets/roxi-architecture.svg" alt="Roxi architecture: capture, multi-agent pipeline, adaptive RAG" width="100%">
+</p>
 
 <details>
-<summary><b>How the hybrid recommender scores and explains</b></summary>
+<summary><b>🎯 How the hybrid recommender scores and explains</b></summary>
 <br>
-
-```mermaid
-flowchart LR
-    U["👤 User–item interactions"] --> CF["Collaborative filtering"]
-    U --> DL["Deep model<br/>user / item embeddings"]
-    U --> G["Graph neural network<br/>user–item graph"]
-    M["🏷️ Item & user metadata"] --> CS["Content features<br/>for cold-start"]
-    CF --> R{"Hybrid ranker"}
-    DL --> R
-    G --> R
-    CS --> R
-    R --> T["🎯 Top-K recommendations"]
-    R --> L["🤖 LLM explainer"]
-    L --> T
-
-    classDef core fill:#0d1117,stroke:#7ee787,color:#e6edf3
-    classDef model fill:#0d1117,stroke:#d2a8ff,color:#e6edf3
-    class U,M,T core
-    class CF,DL,G,CS,R,L model
-```
-
+<p align="center">
+  <img src="./assets/recommender-architecture.svg" alt="Hybrid recommender architecture" width="100%">
+</p>
 </details>
 
 ## 🛠 Toolbox
