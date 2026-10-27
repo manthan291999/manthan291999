@@ -1,13 +1,16 @@
-<h1 align="center">Hi, I'm Manthan 👋</h1>
+<p align="center">
+  <img src="./terminal.svg" alt="Terminal: Manthan Mittal, AI/ML Engineer" width="100%">
+</p>
 
 <p align="center">
-  AI/ML Engineer building recommender systems, LLM applications, and the pipelines that keep them running.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=7EE787&center=true&vCenter=true&width=640&lines=Building+recommenders+that+explain+themselves;Shipping+LLM+agents+for+live+meetings;Catching+anomalies+in+real+sensor+streams;ML+that+survives+contact+with+real+users" alt="Typing SVG"></a>
 </p>
 
 <p align="center">
   <a href="https://manthanmittal.in"><img src="https://img.shields.io/badge/Portfolio-1f2328?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/manthanmittal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:manthanmittal93@gmail.com"><img src="https://img.shields.io/badge/Email-1f2328?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=manthan291999&style=for-the-badge&color=2ea043&label=PROFILE+VIEWS">
 </p>
 
 ---
@@ -17,21 +20,20 @@ recommendation systems, agentic LLM workflows, and the unglamorous data engineer
 MSc in Artificial Intelligence from the University of Essex; currently shipping ML for industrial
 sensor data in Ahmedabad.
 
-```text
-Focus     →  Recommender systems · RAG & agents · MLOps
-Stack     →  Python · Rust · PyTorch
-Currently →  Anomaly detection on live production sensor streams
-Learning  →  Graph ML at scale, low-latency inference
-```
-
 ### 🔭 What I'm building
 
-- **Hybrid recommendation engine** — collaborative filtering + deep learning + graph neural networks,
-  with an LLM layer that explains *why* something was recommended. Built for cold-start and sparse data.
-- **Live meeting assistant** — Rust audio core for low-latency capture, feeding coordinated LLM agents
-  that transcribe, summarise, and flag risks while the meeting is still happening.
-- **Sensor anomaly detection** — ETL pipelines and deep learning models monitoring equipment
-  efficiency in production.
+```diff
++ Hybrid recommendation engine
+  collaborative filtering + deep learning + graph neural networks, with an LLM layer
+  that explains *why* something was recommended. Built for cold-start and sparse data.
+
++ Live meeting assistant
+  Rust audio core for low-latency capture, feeding coordinated LLM agents that
+  transcribe, summarise, and flag risks while the meeting is still happening.
+
++ Sensor anomaly detection
+  ETL pipelines and deep learning models monitoring equipment efficiency in production.
+```
 
 ### 🛠 Tech I work with
 
@@ -60,6 +62,13 @@ Learning  →  Graph ML at scale, low-latency inference
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=manthan291999&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=transparent">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan291999&layout=compact&hide_border=true&hide_title=true&langs_count=6&theme=transparent">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manthan291999/manthan291999/output/snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/manthan291999/manthan291999/output/snake.svg">
+  </picture>
 </p>
 
 ---
