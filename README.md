@@ -144,11 +144,7 @@ class Manthan:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manthan291999&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=00000000&title_color=7ee787&icon_color=79c0ff">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan291999&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&bg_color=00000000&title_color=7ee787">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manthan291999&theme=tokyonight&hide_border=true&background=00000000&ring=7ee787&fire=ff7b72&currStreakLabel=7ee787">
+  <img src="./assets/github-stats.svg" alt="GitHub activity: contributions in the last year, repositories, active days, languages, contribution heatmap and language breakdown" width="100%">
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
