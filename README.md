@@ -89,20 +89,6 @@ class Manthan:
   </tr>
 </table>
 
-## 🏗️ Under the hood
-
-<p align="center">
-  <img src="./assets/roxi-architecture.svg" alt="Roxi architecture: capture, multi-agent pipeline, adaptive RAG" width="100%">
-</p>
-
-<details>
-<summary><b>🎯 How the hybrid recommender scores and explains</b></summary>
-<br>
-<p align="center">
-  <img src="./assets/recommender-architecture.svg" alt="Hybrid recommender architecture" width="100%">
-</p>
-</details>
-
 ## 🛠 Toolbox
 
 <table>
