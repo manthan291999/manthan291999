@@ -13,7 +13,13 @@
   <img src="https://komarev.com/ghpvc/?username=manthan291999&style=for-the-badge&color=2ea043&label=PROFILE+VIEWS">
 </p>
 
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
+
 ## 🧠 About me
+
+<p align="center">
+  <img src="./assets/neural-net.svg" alt="Animated neural network: real-world data in, recommendations, anomaly detection and explanations out" width="100%">
+</p>
 
 > **I care about ML that survives contact with real users and real data.**
 
@@ -32,6 +38,8 @@ class Manthan:
     def philosophy(self):
         return "If it only works in the notebook, it doesn't work."
 ```
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## 🚀 Featured work
 
@@ -89,6 +97,8 @@ class Manthan:
   </tr>
 </table>
 
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
+
 ## 🛠 Toolbox
 
 <table>
@@ -129,6 +139,8 @@ class Manthan:
   </tr>
 </table>
 
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
+
 ## 📊 GitHub stats
 
 <p align="center">
@@ -138,6 +150,8 @@ class Manthan:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=manthan291999&theme=tokyonight&hide_border=true&background=00000000&ring=7ee787&fire=ff7b72&currStreakLabel=7ee787">
 </p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ## 🤝 Let's connect
 

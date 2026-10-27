@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="30" viewBox="0 0 900 30" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7ee787"/><stop offset="0.5" stop-color="#79c0ff"/><stop offset="1" stop-color="#d2a8ff"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <line x1="30" y1="15.0" x2="870" y2="15.0" stroke="url(#g)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <circle cx="30" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="30" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.000;0.030;0.120;1"/>
+  </circle>
+  <circle cx="90" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="90" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.063;0.094;0.184;1"/>
+  </circle>
+  <circle cx="150" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="150" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.128;0.159;0.249;1"/>
+  </circle>
+  <circle cx="210" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="210" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.192;0.223;0.313;1"/>
+  </circle>
+  <circle cx="270" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="270" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.256;0.287;0.377;1"/>
+  </circle>
+  <circle cx="330" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="330" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.320;0.351;0.441;1"/>
+  </circle>
+  <circle cx="390" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="390" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.385;0.416;0.506;1"/>
+  </circle>
+  <circle cx="450" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="450" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.449;0.480;0.570;1"/>
+  </circle>
+  <circle cx="510" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="510" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.513;0.544;0.634;1"/>
+  </circle>
+  <circle cx="570" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="570" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.578;0.609;0.699;1"/>
+  </circle>
+  <circle cx="630" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="630" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.642;0.673;0.763;1"/>
+  </circle>
+  <circle cx="690" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="690" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.706;0.737;0.827;1"/>
+  </circle>
+  <circle cx="750" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="750" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.770;0.801;0.891;1"/>
+  </circle>
+  <circle cx="810" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="810" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.835;0.866;0.956;1"/>
+  </circle>
+  <circle cx="870" cy="15.0" r="3.5" fill="#0d1117" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="870" cy="15.0" r="2" fill="url(#g)" opacity="0.3">
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="0.3;0.3;1;0.3;0.3" keyTimes="0;0.899;0.930;0.999;1"/>
+  </circle>
+  <circle cy="15.0" r="4" fill="#fff" filter="url(#glow)">
+    <animate attributeName="cx" dur="3.0s" repeatCount="indefinite" values="30;870;870" keyTimes="0;0.9;1"/>
+    <animate attributeName="opacity" dur="3.0s" repeatCount="indefinite" values="1;1;0" keyTimes="0;0.9;1"/>
+  </circle>
+</svg>
